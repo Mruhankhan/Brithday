@@ -1,0 +1,27 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: lightblue;
+  background-size: 53px 53px;
+  background-image: radial-gradient(transparent 28px, #ffffff 28px, #ffffff 32px, transparent 32px);
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  margin: 0%;
+}
+#div {
+  width: 400px;
+  height: 460px;
+  background-color: #eec56d;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  cursor: pointer;
+}
+h1 {
+  margin: 25px auto;
+}
